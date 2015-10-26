@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animaciones</string>
+    <string name="bGirar">Girar</string>
+    <string name="bTransparente">Transparente</string>
+    <string name="bMover">Mover</string>
+    <string name="bAmpliar">Ampliar</string>
+
+</resources>
